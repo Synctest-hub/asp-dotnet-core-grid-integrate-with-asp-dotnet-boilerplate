@@ -60,6 +60,8 @@ This is a layered monolith application that consists of the following applicatio
 
 Deploying an ABP application is not different than deploying any .NET or ASP.NET Core application. However, there are some topics that you should care about when you are deploying your applications. You can check ABP's [Deployment documentation](https://docs.abp.io/en/abp/latest/Deployment/Index) before deploying your application.
 
+![Asp.Net Core Grid with Asp.Net Boilerplate](./assets/images/core-grid-with-abp.gif)
+
 ### Additional resources
 
 You can see the following resources to learn more about your solution and the ABP Framework:
